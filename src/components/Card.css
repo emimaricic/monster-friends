@@ -1,0 +1,13 @@
+.robot {
+  background-color: lightblue;
+  display: inline-block;
+  border: 2px;
+  margin: 2px;
+  padding: 3px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.robot:hover {
+  background-color: aliceblue;
+}
